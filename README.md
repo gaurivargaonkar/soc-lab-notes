@@ -11,7 +11,6 @@ indexer/dashboard).
 - [Lab 4: Custom Detection Rule](./lab-04-custom-detection-rule.md)
 - [Lab 5: Active Response Investigation](./lab-05-active-response-investigation.md)
 - [Lab 6: Vulnerability Detection & SCA](./lab-06-vulnerability-detection-sca.md)
-- [Lab 7: VirusTotal Integration](./lab-07-virustotal-integration.md) 
 - [Lab 8: mitre-att&ck-dashboard-exploration.md)
 
 ## Skills Demonstrated
