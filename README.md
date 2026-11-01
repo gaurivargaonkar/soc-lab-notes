@@ -11,7 +11,7 @@ indexer/dashboard).
 - [Lab 4: Custom Detection Rule](./lab-04-custom-detection-rule.md)
 - [Lab 5: Active Response Investigation](./lab-05-active-response-investigation.md)
 - [Lab 6: Vulnerability Detection & SCA](./lab-06-vulnerability-detection-sca.md)
-- [Lab 8: mitre-att&ck-dashboard-exploration.md)
+- [Lab 8: MITRE ATT&CK mapping and coverage gap analysis](./mitre-att&ck-dashboard-exploration.md)
 
 ## Skills Demonstrated
 - SIEM deployment and administration (Wazuh, multi-machine architecture)
